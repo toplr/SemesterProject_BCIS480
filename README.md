@@ -1,4 +1,4 @@
-# Customer_Churn_Prediction
+# customer_churn_prediction
 
 Author: Jake Visintin
 
