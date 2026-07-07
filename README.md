@@ -4,7 +4,9 @@ Author: Jake Visintin
 
 Date: May 2026
 
-This is a university semester project done in Python using Scikit-Learn to predict customer churn.
+## Project Overview
+
+This academic project leverages Python and Scikit-Learn to isolate highly correlative business variables and build predictive models for company customer churn.
 
 
 ## Data Source
